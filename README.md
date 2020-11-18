@@ -1,5 +1,5 @@
 # Meetings
- Meetings
+
 function meetings(input) {
     let schedule = {};
     input.forEach(element => {
